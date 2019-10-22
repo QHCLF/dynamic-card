@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <h1>demo</h1>
-    <card msg="Welcome to Your Vue.js App"/>
+    <card/>
   </div>
 </template>
 

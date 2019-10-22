@@ -1,9 +1,9 @@
 # dynamic-card
 使用纯css实现的弹性卡片组件
 ## 预览
- ![image](http://github.com/qhclf/dynamic-card/src/assets/card1.png)
+ ![image](https://github.com/QHCLF/dynamic-card/tree/master/src/assets/card1.png)
 
-![image](http://github.com/qhclf/dynamic-card/src/assets/card2.png)
+![image](http://https://github.com/QHCLF/dynamic-card/tree/master/src/assets/card2.png)
 
 
 ## 使用方式
