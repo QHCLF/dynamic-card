@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>demo</h1>
     <card msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
@@ -10,7 +11,7 @@ import card from './components/card.vue'
 export default {
   name: 'app',
   components: {
-    card
+    card 
   }
 }
 </script>
